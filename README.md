@@ -25,36 +25,70 @@ I enjoy working at the intersection of **Software Engineering, Quality Assurance
 
 ## 🛠️ Technology Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages & Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### DevOps & Cloud
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Web & Databases
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### Cloud, Web & Databases
 
-### Testing & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Testing & QA Tools
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
+## 🧪 Software Quality Assurance
+
+### Testing Knowledge
+
+- ✅ Functional Testing
+- ✅ Functional Regression Testing
+- ✅ Regression Testing
+- ✅ Non-Functional Testing
+- ✅ API Testing
+- ✅ Manual Testing
+- ✅ Software Verification & Validation
+- ✅ Defect Identification & Reporting
+- ✅ Test Case Design
+- ✅ Test Scenario Development
+
+### Software Development & Testing Processes
+
+- 🔄 Software Development Life Cycle (SDLC)
+- 🧪 Software Testing Life Cycle (STLC)
+- 📋 Test Planning & Execution
+- 🐞 Bug Tracking & Defect Management
+- 🔁 Regression & Retesting
+- 🔍 Requirement Analysis
+- 📊 Test Documentation
+
+---
+
 ## 📌 Featured Projects
 
 ### 🌐 Personal Portfolio
+
 A React-based personal portfolio showcasing my technical skills, projects, experience, certifications, and professional journey.
 
 **Tech:** React, JavaScript, HTML, CSS
@@ -62,6 +96,7 @@ A React-based personal portfolio showcasing my technical skills, projects, exper
 ---
 
 ### ⚙️ DevOps Learning Hub
+
 A practical DevOps learning project covering essential concepts, tools, workflows, and automation practices.
 
 **Tech:** HTML, CSS, JavaScript, GitHub Pages
@@ -69,6 +104,7 @@ A practical DevOps learning project covering essential concepts, tools, workflow
 ---
 
 ### 🐳 Web Server Using Docker
+
 A containerized web application demonstrating Docker-based deployment and CI automation through GitHub Actions.
 
 **Tech:** Java, Gradle, Docker, Nginx, GitHub Actions
@@ -76,6 +112,7 @@ A containerized web application demonstrating Docker-based deployment and CI aut
 ---
 
 ### 🎮 Game Development Projects
+
 Developing interactive game projects while exploring game development, testing, optimization, and software engineering practices.
 
 **Tech:** Godot, Unity, GameMaker, C#, GDScript
