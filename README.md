@@ -130,6 +130,7 @@ Developing interactive game projects while exploring game development, testing, 
 
 ## 📜 Certifications
 
+- Introduction to Software Testing
 - HP LIFE — Agile Project Management
 - OPSWAT — Introduction to Critical Infrastructure Protection
 - Additional technical certifications and courses in progress
